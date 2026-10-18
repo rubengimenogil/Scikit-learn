@@ -1,6 +1,6 @@
 site_name: Retail Sales Exercise
-site_url: https://1yztooar.github.io/Scikit-learn/
-repo_url: https://github.com/1YZTOOAr/Scikit-learn
+site_url: https://rubengimenogil.github.io/Scikit-learn/
+repo_url: https://github.com/rubengimenogil/Scikit-learn
 
 # The i18n plugin serves English at the root and Spanish under /es/.
 docs_dir: docs
